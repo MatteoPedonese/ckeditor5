@@ -1,7 +1,13 @@
 {
   "packages": "packages/",
-  "packagesPrefix": [ "@ckeditor/ckeditor5-", "@ckeditor/ckeditor-" ],
-  "baseBranches": [ "master", "stable" ],
+  "packagesPrefix": [
+    "@ckeditor/ckeditor5-",
+    "@ckeditor/ckeditor-"
+  ],
+  "baseBranches": [
+    "master",
+    "stable"
+  ],
   "dependencies": {
     "@ckeditor/ckeditor-cloud-services-core": "ckeditor/ckeditor-cloud-services-core",
     "@ckeditor/ckeditor5-adapter-ckfinder": "ckeditor/ckeditor5-adapter-ckfinder",
@@ -19,7 +25,7 @@
     "@ckeditor/ckeditor5-cloud-services": "ckeditor/ckeditor5-cloud-services",
     "@ckeditor/ckeditor5-ckfinder": "ckeditor/ckeditor5-ckfinder",
     "@ckeditor/ckeditor5-code-block": "ckeditor/ckeditor5-code-block",
-    "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core",
+    "@ckeditor/ckeditor5-core": "ckeditor/ckeditor5-core#i/6091",
     "@ckeditor/ckeditor5-easy-image": "ckeditor/ckeditor5-easy-image",
     "@ckeditor/ckeditor5-editor-balloon": "ckeditor/ckeditor5-editor-balloon",
     "@ckeditor/ckeditor5-editor-classic": "ckeditor/ckeditor5-editor-classic",
@@ -51,7 +57,7 @@
     "@ckeditor/ckeditor5-ui": "ckeditor/ckeditor5-ui#i/6091",
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo",
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload",
-    "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils",
+    "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils#i/6091",
     "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#i/6091",
     "@ckeditor/ckeditor5-watchdog": "ckeditor/ckeditor5-watchdog",
     "@ckeditor/ckeditor5-word-count": "ckeditor/ckeditor5-word-count"
