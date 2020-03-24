@@ -1,8 +1,8 @@
 node_modules/
 build/
 coverage/
-packages/
-docs/api/output.json
+packages/*
+!packages/ckeditor5-autosave/
 lerna-debug.log
 .idea
 .vscode
